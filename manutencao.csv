@@ -1,0 +1,6 @@
+id_manutencao,id_ordem,id_tecnico,descricao_servico,data_execucao,horas_trabalhadas,observacoes
+1,1,1,Limpeza e troca do rolamento,2026-09-02,3.5,Equipamento funcionando normalmente
+2,2,2,Troca da correia de transmissao,2026-09-05,4.0,Vibracao eliminada
+3,3,3,Teste e troca do sensor,2026-09-07,2.0,Sensor substituido
+4,4,5,Troca do filtro e verificacao hidraulica,2026-09-09,2.5,Sistema hidraulico revisado
+5,5,4,Ajuste e troca da valvula,2026-09-11,3.0,Serra liberada para uso

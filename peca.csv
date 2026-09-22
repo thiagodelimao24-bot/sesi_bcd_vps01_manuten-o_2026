@@ -1,0 +1,6 @@
+id_peca,nome,descricao,quantidade_estoque,estoque_minimo,preco
+1,Rolamento,Rolamento industrial,20,5,80
+2,Correia,Correia de transmissao,15,4,45
+3,Sensor,Sensor de proximidade,10,3,120
+4,Filtro,Filtro de oleo industrial,12,4,65
+5,Valvula,Valvula hidraulica,8,2,180

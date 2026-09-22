@@ -1,0 +1,6 @@
+id,nome,tipo,marca,modelo,numero_serie,data_aquisicao,status,setor,valor_aquisicao
+1,Torno CNC,Torno,Romi,Centur 30D,TR001,2022-03-15,Ativo,Usinagem,85000
+2,Fresadora,Fresadora,Romi,D600,FR002,2021-08-10,Manutencao,Ferramentaria,72000
+3,Compressor,Compressor de Ar,Schulz,CSV20,CP003,2023-01-20,Ativo,Producao,15000
+4,Prensa Hidraulica,Prensa,Schuler,PH100,PH004,2020-06-12,Ativo,Estamparia,98000
+5,Serra Fita,Serra,Starrett,SFM300,SF005,2024-02-05,Ativo,Corte,12500
